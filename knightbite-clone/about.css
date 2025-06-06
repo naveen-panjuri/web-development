@@ -1,0 +1,81 @@
+.heading {
+  width: 60%;
+  font-size: 60px;
+  text-align: left;
+  align-items: start;
+  padding-right: 400px;
+  font-weight: normal;
+  letter-spacing: 4px;
+}
+.bg {
+  background-image: url(./assets/banner-about.webp);
+}
+.inner1 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  padding: 40px;
+}
+.inner1 img {
+  width: 500px;
+  padding: 80px 30px;
+  margin-right: 50px;
+  margin-left: 30px;
+}
+.inner1 p {
+  width: 50%;
+  line-height: 40px;
+  margin-left: 50px;
+  margin-right: 50px;
+  /* background-color: blue; */
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: left;
+  font-size: 20px;
+}
+.inner2 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  padding: 40px;
+}
+.inner2 img {
+  width: 500px;
+
+  margin-right: 30px;
+}
+.inner2 p {
+  width: 50%;
+  line-height: 40px;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: left;
+  font-size: 20px;
+}
+.inner3 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  padding: 40px;
+}
+.inner3 img {
+  width: 500px;
+  margin-left: 30px;
+  /* margin-right: 30px; */
+}
+.inner3 p {
+  width: 50%;
+  line-height: 40px;
+  margin-left: 50px;
+  margin-right: 50px;
+  /* background-color: blue; */
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: left;
+  font-size: 20px;
+}

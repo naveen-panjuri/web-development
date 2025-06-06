@@ -1,0 +1,32 @@
+.bg-menu {
+  background-image: url(./assets/banner-menu.webp);
+  height: 100vh;
+}
+.inner-img {
+  display: grid;
+  grid-template-columns: auto auto auto;
+
+  justify-content: center;
+  align-items: center;
+}
+.inner-img img {
+  margin: 80px;
+  /* padding: 20px; */
+  height: 100px;
+  color: white;
+}
+.inner-img h3 {
+  color: white;
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding-left: 20px;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+}
+.inner-img h3:hover {
+  color: rgba(121, 108, 108, 0.87);
+}
+.inner-img div:hover {
+  transform: scale(1.1);
+}
